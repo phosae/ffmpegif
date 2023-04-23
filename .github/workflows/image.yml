@@ -58,7 +58,7 @@ jobs:
             zengxu/ffmpegif:latest,zengxu/ffmpegif:${{ env.COMMIT_ID }}
           platforms: |
             linux/amd64,linux/arm64
-          push: ${{ github.ref == 'refs/heads/main' }}
+          push: ${{ github.ref == 'refs/heads/master' }}
 
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
