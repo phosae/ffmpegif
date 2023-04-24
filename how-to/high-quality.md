@@ -1,5 +1,7 @@
 # How To High quality GIF with FFmpeg
-Inspired by [High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+Inspired by 
+- [High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+- [How do I convert a video to GIF using ffmpeg, with reasonable quality?](https://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality)
 
 Ask ChatGPT
 - https://chat.forefront.ai/share/apshangez8v4ubbi
